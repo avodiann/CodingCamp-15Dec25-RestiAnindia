@@ -11,6 +11,8 @@
     background-color: #FF5555;
     background-image: url(../img/icon.png);
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .home {
