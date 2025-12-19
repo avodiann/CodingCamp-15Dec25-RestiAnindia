@@ -5,11 +5,11 @@
     background-color: #FF5555;
 }
 
-.logo {
+.icon {
     height: 75px;
     width: 75px;
     background-color: #FF5555;
-    background-image: url(./img/logo.png);
+    background-image: url(../img/icon.png);
     background-size: cover;
 }
 
